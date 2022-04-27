@@ -12,6 +12,13 @@ namespace ApiTest_NBA_10
         public int PlayerID { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        public string Status { get; set; }
+        public int Height { get; set; }
+        public int Weight { get; set; }
+        public string BirthDate { get; set; }
+        public string PhotoUrl { get; set; }
+        public string SportRadarPlayerID { get; set; }
+        public string FanDuelName { get; set; }
     }
     class Program
     {
@@ -36,6 +43,14 @@ namespace ApiTest_NBA_10
                     {
                         Console.WriteLine("Player Name : "+v.FirstName+" "+v.LastName);
                         Console.WriteLine("Player Id : "+v.PlayerID);
+                        Console.WriteLine("Status : " + v.Status);
+                        Console.WriteLine("Height : " + v.Height);
+                        Console.WriteLine("Weight : " + v.Weight);
+                        Console.WriteLine("Birth Date : " + v.BirthDate);
+                        Console.WriteLine("Photo Url : " + v.PhotoUrl);
+                        Console.WriteLine("Sport Radar Player ID : " + v.SportRadarPlayerID);
+                        Console.WriteLine("FanDuelName : " + v.FanDuelName);
+
                     }
                 }
             }
