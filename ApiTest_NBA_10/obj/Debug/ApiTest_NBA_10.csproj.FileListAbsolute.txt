@@ -1,0 +1,12 @@
+D:\repos\API\ApiTest_NBA_10\ApiTest_NBA_10\obj\Debug\ApiTest_NBA_10.csproj.AssemblyReference.cache
+D:\repos\API\ApiTest_NBA_10\ApiTest_NBA_10\obj\Debug\ApiTest_NBA_10.csproj.CoreCompileInputs.cache
+D:\repos\API\ApiTest_NBA_10\ApiTest_NBA_10\bin\Debug\ApiTest_NBA_10.exe.config
+D:\repos\API\ApiTest_NBA_10\ApiTest_NBA_10\bin\Debug\ApiTest_NBA_10.exe
+D:\repos\API\ApiTest_NBA_10\ApiTest_NBA_10\bin\Debug\ApiTest_NBA_10.pdb
+D:\repos\API\ApiTest_NBA_10\ApiTest_NBA_10\bin\Debug\Newtonsoft.Json.dll
+D:\repos\API\ApiTest_NBA_10\ApiTest_NBA_10\bin\Debug\System.Net.Http.Formatting.dll
+D:\repos\API\ApiTest_NBA_10\ApiTest_NBA_10\bin\Debug\Newtonsoft.Json.xml
+D:\repos\API\ApiTest_NBA_10\ApiTest_NBA_10\bin\Debug\System.Net.Http.Formatting.xml
+D:\repos\API\ApiTest_NBA_10\ApiTest_NBA_10\obj\Debug\ApiTest_NBA_10.csproj.CopyComplete
+D:\repos\API\ApiTest_NBA_10\ApiTest_NBA_10\obj\Debug\ApiTest_NBA_10.exe
+D:\repos\API\ApiTest_NBA_10\ApiTest_NBA_10\obj\Debug\ApiTest_NBA_10.pdb
